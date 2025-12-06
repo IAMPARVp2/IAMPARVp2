@@ -11,7 +11,6 @@
 
 ---
 
-
 ### 🛠️ Tech Stack & Tools  
 <p align="center">
   <!-- Use consistent heights to avoid misalignment -->
